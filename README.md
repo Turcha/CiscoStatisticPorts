@@ -1,1 +1,2 @@
-# CiscoStatisticPorts
+# Скрипт "Cisco Statistic Port"
+##Данный скрипт  позволяет собрать информацию 
